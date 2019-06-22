@@ -26,3 +26,4 @@ Traccar Client is an Android GPS tracking application. It can work with Traccar 
     See the License for the specific language governing permissions and
     limitations under the License.
 # org.traccar.client
+# vedarth_tracker
